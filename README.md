@@ -1,7 +1,7 @@
 ### Hi there 👋, Armaan Haque
 #### Data Analysis and Supply Chain
 ![Data Analysis and Supply Chain]
-![Header]![github-header-image (1)](https://github.com/user-attachments/assets/d564fe86-e5dd-42d2-8c6a-a039c25de1b8)
+(https://github.com/user-attachments/assets/d564fe86-e5dd-42d2-8c6a-a039c25de1b8)
 
 )
 
