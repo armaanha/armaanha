@@ -1,8 +1,7 @@
 ## Hi there 👋, Armaan Haque
 ### Data Analysis and Supply Chain
 
-
-I am pursuing a Master of Science in Industrial Engineering with a concentration in Data Analytics at SUNY Buffalo. I have worked as a Business Analyst in the renewable energy sector. I am skilled in data-driven decision-making and problem-solving.
+Master of Science in Industrial Engineering graduate student with a concentration in Data Analytics at SUNY Buffalo. I have worked as a Business Analyst in the renewable energy sector. I am skilled in data-driven decision-making and problem-solving.
 
 
 Skills: Data Analysis / Business Intelligence / Supply Chain / Machine Learning
